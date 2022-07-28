@@ -11,6 +11,4 @@ I believe open source has a significant role to play in building a more
 It's my life mission to **improve the open source ecosystem** and **expand
 knowledge and access** to as many developers as possible.
 
-I'm a maintainer of [Chakra UI](https://chakra-ui.com/) and I'm a member of the
-core team and the leader of the development guild at
-[Developer DAO](https://developerdao.com/).
+I'm a founding member of [Developer DAO](https://developerdao.com/), a member of [Soil](https://github.com/Soil-labs) :seedling:, and a former maintainer of [Chakra UI](https://chakra-ui.com/).
